@@ -190,7 +190,7 @@ border-top-color:  #2EC981;
                         </div>
                         
                         <div class="col-lg-3">
-                            <img src="Advertising.png" height="75px" width="75px">
+                            <img src="advertising.png" height="75px" width="75px">
                             <h3>Advertising</h3>
 
 
